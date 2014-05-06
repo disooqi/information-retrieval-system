@@ -1,0 +1,7 @@
+bin\Debug\Indexing.dll
+bin\Debug\Indexing.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Indexing.dll
+obj\Debug\Indexing.pdb
+bin\Debug\DBManagerModule.dll
+bin\Debug\DBManagerModule.pdb

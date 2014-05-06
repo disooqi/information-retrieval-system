@@ -1,0 +1,5 @@
+bin\Debug\QueryOperations.dll
+bin\Debug\QueryOperations.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\QueryOperations.dll
+obj\Debug\QueryOperations.pdb

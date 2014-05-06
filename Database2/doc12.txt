@@ -1,0 +1,36 @@
+INFORMATION EXTRACTION
+The following group of articles explores information extraction,
+mostly named entity extraction, largely using machine learning
+techniques rather than hand-built rules, with a varying amount of
+linguistic information being used.
+Mooney and Bunescu do a wonderful job summarizing various
+contributions machine learning has made in advancing the
+information extraction task. They examine a number of
+information extraction algorithms, both as methods for extracting
+useful knowledge in and of themselves and as precursors to (or
+integrated parts of) various data mining algorithms. Although
+they look at a great variety of algorithms and applications, the
+most linguistic knowledge any of them use is POS tagging.
+Gliozzo et al. provide a discussion on how to use Instance
+Filtering to reduce the size of the training set for supervised
+classification-based learning systems for entity recognition. Their
+work shows that not only can this improve the computation time
+for both training and classification, but, by reducing the skewness
+in the data, accuracy can improve as well. They also use POS,
+but no other linguistic concepts.
+Fu et al. explore the usefulness of two extensions to current
+Hidden Markov Models for entity extraction in Chinese:
+including using the preceding literals as well as tags to predict
+entities (lexicalization) and grouping characters into known words
+as input to entity extraction. Grouping characters into words is a
+long standing problem in any text analysis task in Chinese (as
+well as in Japanese and Korean) and could be considered an NLP
+technique akin to phrasal grouping in languages like English.
+However, their experiments show that, while lexicalization helps
+with entity extraction in Chinese, incorporating known word
+information does not.
+While the focus of Li et al. is on a new distributed form of
+association rule mining, they use the results of their entity
+extraction algorithm which is discussed briefly. It is another
+example of a machine learning algorithm for finding entities in
+text and, like some of those above, uses POS tagging and no other

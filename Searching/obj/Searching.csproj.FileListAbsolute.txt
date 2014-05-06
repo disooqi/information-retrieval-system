@@ -1,0 +1,10 @@
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\Searching\bin\Debug\Searching.dll
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\Searching\bin\Debug\Searching.pdb
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\Searching\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\Searching\obj\Debug\Searching.dll
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\Searching\obj\Debug\Searching.pdb
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\Searching\bin\Debug\Searching.dll
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\Searching\bin\Debug\Searching.pdb
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\Searching\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\Searching\obj\Debug\Searching.dll
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\Searching\obj\Debug\Searching.pdb

@@ -1,0 +1,5 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\DBManagerModule.dll
+bin\Debug\DBManagerModule.pdb
+obj\Debug\DBManagerModule.dll
+obj\Debug\DBManagerModule.pdb

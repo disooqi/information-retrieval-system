@@ -1,0 +1,61 @@
+Machine learning
+Now that we have some idea about the inputs and outputs, let’s turn to machine
+learning.What is learning, anyway? What is machine learning? These are philosophic
+questions, and we will not be much concerned with philosophy in this
+book; our emphasis is firmly on the practical. However, it is worth spending a
+few moments at the outset on fundamental issues, just to see how tricky they
+are, before rolling up our sleeves and looking at machine learning in practice.
+Our dictionary defines “to learn” as follows:
+To get knowledge of by study, experience, or being taught;
+To become aware by information or from observation;
+To commit to memory;
+To be informed of, ascertain;
+To receive instruction.
+
+These meanings have some shortcomings when it comes to talking about computers.
+For the first two, it is virtually impossible to test whether learning has
+been achieved or not. How do you know whether a machine has got knowledge
+of something? You probably can’t just ask it questions; even if you could, you
+wouldn’t be testing its ability to learn but would be testing its ability to answer
+questions. How do you know whether it has become aware of something? The
+whole question of whether computers can be aware, or conscious, is a burning
+philosophic issue. As for the last three meanings, although we can see what they
+denote in human terms, merely “committing to memory” and “receiving
+instruction” seem to fall far short of what we might mean by machine learning.
+They are too passive, and we know that computers find these tasks trivial.
+Instead, we are interested in improvements in performance, or at least in the
+potential for performance, in new situations. You can “commit something to
+memory” or “be informed of something” by rote learning without being able to
+apply the new knowledge to new situations. You can receive instruction without
+benefiting from it at all.
+Earlier we defined data mining operationally as the process of discovering
+patterns, automatically or semiautomatically, in large quantities of data—and
+the patterns must be useful. An operational definition can be formulated in the
+same way for learning:
+Things learn when they change their behavior in a way that makes them
+perform better in the future.
+This ties learning to performance rather than knowledge. You can test learning
+by observing the behavior and comparing it with past behavior. This is a much
+more objective kind of definition and appears to be far more satisfactory.
+But there’s still a problem. Learning is a rather slippery concept. Lots of things
+change their behavior in ways that make them perform better in the future, yet
+we wouldn’t want to say that they have actually learned. A good example is a
+comfortable slipper. Has it learned the shape of your foot? It has certainly
+changed its behavior to make it perform better as a slipper! Yet we would hardly
+want to call this learning. In everyday language, we often use the word “training”
+to denote a mindless kind of learning. We train animals and even plants,
+although it would be stretching the word a bit to talk of training objects such
+as slippers that are not in any sense alive. But learning is different. Learning
+implies thinking. Learning implies purpose. Something that learns has to do so
+intentionally. That is why we wouldn’t say that a vine has learned to grow round
+a trellis in a vineyard—we’d say it has been trained. Learning without purpose
+is merely training. Or, more to the point, in learning the purpose is the learner’s,
+whereas in training it is the teacher’s.
+Thus on closer examination the second definition of learning, in operational,
+performance-oriented terms, has its own problems when it comes to talking about
+computers. To decide whether something has actually learned, you need to see
+whether it intended to or whether there was any purpose involved. That makes
+the concept moot when applied to machines because whether artifacts can behave
+purposefully is unclear. Philosophic discussions of what is really meant by “learning,”
+like discussions of what is really meant by “intention” or “purpose,” are
+fraught with difficulty. Even courts of law find intention hard to grapple with.

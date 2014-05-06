@@ -1,0 +1,51 @@
+This course is organized so as to, first, provide a general introduction to
+software development and identify the important phases of any software project.
+Then, each of the phases is examined in detail, in order to give the reader a
+picture of the current state of our understanding of software development.
+Chapter 1 provides a general introduction to the field in order to give some
+sense of the magnitude and importance of software in today's world, t he kinds of
+problems that make software development difficult, and an outline of how
+software development is undertaken. Chapter 2 provides more detail on the idea
+of a “software process”, that is, on the various stages software goes through,
+from the planning stages to its delivery to the customer and beyond. Different
+models of the process are introduced, and the types of project features for
+which each is most appropriate are discussed.
+Chapters 3 through 10 follow, in order, the major phases in the life of a
+software system. Chapter 3 deals with the planning stages: how resources and
+cost are estimated, how risks are identified and planned, and how schedules are
+created. Chapter 4 details how the problem to be solved by the system (not the
+system itself) is defined. This chapter concentrates on the methods that are
+necessary to fully capture the customer's requirements for the system, and how
+to specify them in a way that will be useful for future needs. Once the problem
+is sufficiently well understood, the system that solves it can be designed.
+Chapter 5 discusses the design of the software, introducing broad architectural
+styles that may be useful for different types of systems as well as more
+specific design characteristics. This chapter sketches the roles of the people
+involved in producing the design, as well as measures that can be used to assess
+a design's quality. Chapter 6 explores an important design paradigm, Object -
+Orientation, in more detail and shows how the design notation captures useful
+information about several aspects of the problem and the resulting system.
+Chapter 7 discusses the general principles by which a system design is turned
+into working code. Chapters 8 and 9 discuss testing, an important activity for
+ensuring the quality of the code, in some detail. An overview of different types
+of testing, as well as testing tools and methods, are presented. Finally,
+Chapter 10 describes different types of training and documentation and what
+should happen when the system is delivered to the customer.
+For many systems the responsibility of the developers does not stop at delivery.
+Chapter 11 discusses system maintenance, that is, the part of the life-cycle
+that comes after delivery. The nature of the problems that may arise with the
+system in this p hase, as well as techniques and tools for performing
+maintenance, are presented. Special emphasis is placed on what can be done
+during system development to minimize the effort required during maintenance.
+Having presented a wide array of tools and techniques th at can be used during
+the software process, the course next presents some guidelines for how an
+effective set of tools can be selected. Key to this idea of process improvement
+is the concept of empirically evaluating the different tools available. Chapter
+12 presents the basic concepts behind empirical evaluation, including the
+different types of empirical studies. More specific guidelines are presented for
+evaluations of products, processes, and resources. Chapter 13 further
+illustrates this discussion by presenting specific process improvement examples
+in each of these categories. Chapter 14 examines what progress has been made in
+better understanding software development and the consequences of development
+decisions, and presents some closing thoughts on important future directions for
+software engineering.

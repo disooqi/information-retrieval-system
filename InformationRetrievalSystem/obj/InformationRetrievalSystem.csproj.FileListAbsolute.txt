@@ -1,0 +1,28 @@
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\InformationRetrievalSystem\obj\Debug\InformationRetrievalSystem.exe
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\InformationRetrievalSystem\obj\Debug\InformationRetrievalSystem.pdb
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\InformationRetrievalSystem\bin\Debug\InformationRetrievalSystem.exe
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\InformationRetrievalSystem\bin\Debug\InformationRetrievalSystem.pdb
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\InformationRetrievalSystem\bin\Debug\Indexing.dll
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\InformationRetrievalSystem\bin\Debug\TextOperations.dll
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\InformationRetrievalSystem\bin\Debug\DBManagerModule.dll
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\InformationRetrievalSystem\bin\Debug\Indexing.pdb
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\InformationRetrievalSystem\bin\Debug\TextOperations.pdb
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\InformationRetrievalSystem\bin\Debug\DBManagerModule.pdb
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\InformationRetrievalSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\InformationRetrievalSystem\obj\Debug\InformationRetrievalSystem.Properties.Resources.resources
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\InformationRetrievalSystem\obj\Debug\InformationRetrievalSystem.SysInterface.resources
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\InformationRetrievalSystem\obj\Debug\InformationRetrievalSystem.csproj.GenerateResource.Cache
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\InformationRetrievalSystem\obj\Debug\InformationRetrievalSystem.exe
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\InformationRetrievalSystem\obj\Debug\InformationRetrievalSystem.pdb
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\InformationRetrievalSystem\bin\Debug\InformationRetrievalSystem.exe
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\InformationRetrievalSystem\bin\Debug\InformationRetrievalSystem.pdb
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\InformationRetrievalSystem\bin\Debug\Indexing.dll
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\InformationRetrievalSystem\bin\Debug\TextOperations.dll
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\InformationRetrievalSystem\bin\Debug\DBManagerModule.dll
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\InformationRetrievalSystem\bin\Debug\Indexing.pdb
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\InformationRetrievalSystem\bin\Debug\TextOperations.pdb
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\InformationRetrievalSystem\bin\Debug\DBManagerModule.pdb
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\InformationRetrievalSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\InformationRetrievalSystem\obj\Debug\InformationRetrievalSystem.Properties.Resources.resources
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\InformationRetrievalSystem\obj\Debug\InformationRetrievalSystem.SysInterface.resources
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\InformationRetrievalSystem\obj\Debug\InformationRetrievalSystem.csproj.GenerateResource.Cache

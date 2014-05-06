@@ -1,0 +1,5 @@
+bin\Debug\Ranking.dll
+bin\Debug\Ranking.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Ranking.dll
+obj\Debug\Ranking.pdb

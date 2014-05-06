@@ -1,0 +1,14 @@
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\UserInterface\bin\Debug\UserInterface.exe
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\UserInterface\bin\Debug\UserInterface.pdb
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\UserInterface\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\UserInterface\obj\Debug\UserInterface.Properties.Resources.resources
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\UserInterface\obj\Debug\UserInterface.csproj.GenerateResource.Cache
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\UserInterface\obj\Debug\UserInterface.exe
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\UserInterface\obj\Debug\UserInterface.pdb
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\UserInterface\bin\Debug\UserInterface.exe
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\UserInterface\bin\Debug\UserInterface.pdb
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\UserInterface\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\UserInterface\obj\Debug\UserInterface.Properties.Resources.resources
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\UserInterface\obj\Debug\UserInterface.csproj.GenerateResource.Cache
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\UserInterface\obj\Debug\UserInterface.exe
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\UserInterface\obj\Debug\UserInterface.pdb

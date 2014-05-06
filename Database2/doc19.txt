@@ -1,0 +1,74 @@
+1.2 Developments in Artificial Intelligence
+In the early 1950s Herbert Simon, Allen Newell and Cliff Shaw conducted experiments in writing programs
+to imitate human thought processes. The experiments resulted in a program called Logic Theorist, which
+consisted of rules of already proved axioms. When a new logical expression was given to it, it would search
+through all possible operations to discover a proof of the new expression, using heuristics. This was a major
+step in the development of AI. The Logic Theorist was capable of quickly solving thirty-eight out of fifty-two
+problems with proofs that Whitehead and Russel had devised [1]. At the same time, Shanon came out with a
+paper on the possibility of computers playing chess [2].
+Though the works of Simon et al and Shanon demonstrated the concept of intelligent computer programs, the
+year 1956 is considered to be the start of the topic Artificial Intelligence. This is because the first AI
+conference, organised by John McCarthy, Marvin Minsky, Nathaniel Rochester and Claude Shanon at
+Dartmouth College in New Hampshire, was in 1956. This conference was the first organised effort in the field
+of machine intelligence. It was at that conference that John McCarthy, the developer of LISP programming
+language, proposed the term Artificial Intelligence. The Dartmouth conference paved the way for examining
+the use of computers to process symbols, the need for new languages and the role of computers for theorem
+proving instead of focusing on hardware that simulated intelligence.
+Newell, Shaw and Simon developed a program called General Problem Solver (GPS) in 1959, that could
+solve many types of problems. It was capable of proving theorems, playing chess and solving complex
+puzzles. GPS introduced the concept of means-end analysis, involving the matching of present state and goal
+state. The difference between the two states was used to find out new search directions. GPS also introduced
+the concept of backtracking and subgoal states that improved the efficiency of problem solving [3].
+Backtracking is used when the search drifts away from the goal state from a previous nearer state, to reach
+that state. The concept of subgoals introduced a goal-driven search through the knowledge. The major
+criticism of GPS was that it could not learn from previously solved problems. In the same year, John
+McCarthy developed LISP programming language, which became the most widely used AI programming
+language [4].Kenneth Colby at Stanford University and Joseph Weizenbaum at MIT wrote separate programs in 1960,
+which simulated human reasoning. Weizenbaum’s program ELIZA used a pattern-matching technique to
+sustain very realistic two-way conversations [5]. ELIZA had rules associated with keywords like ‘I’, ‘you’,
+‘like’ etc., which were executed when one of these words was found. In the same year, Minsky’s group at
+MIT wrote a program that could perform visual analogies [6]. Two figures that had some relationship with
+each other were described to the program, which was then asked to find another set of figures from a set that
+matched a similar relationship.
+The other two major contributions to the development of AI were a linguistic problem solver STUDENT [7]
+and a learning program SHRDLU [8]. The program STUDENT considered every sentence in a problem
+description to be an equation and processed the sentences in a more intelligent manner. Two significant
+features of SHRDLU were the ability to make assumptions and the ability to learn from already solved
+problems.
+Parallel to these developments, John Holland at the University of Michigan conducted experiments in the
+early 1960s to evolve adaptive systems, which combined Darwin’s theory of survival-of-the-fittest and natural
+genetics to form a powerful search mechanism [9]. These systems with their implicit learning capability gave
+rise to a new class of problem-solving paradigms called genetic algorithms. Prototype systems of applications
+involving search, optimisation, synthesis and learning were developed using this technique, which was found
+to be very promising in many engineering domains [10].
+Extensive research and development work has been carried out by many to simulate learning in the human
+brain using computers. Such works led to the emergence of the Artificial Neural Network (ANN) [11,12] as a
+paradigm for solving a wide variety of problems in different domains in engineering. Different configurations
+of ANNs are proposed to solve different classes of problems. The network is first trained with an available set
+of inputs and outputs. After training, the network can solve different problems of the same class and generate
+output. The error level of the solution will depend on the nature and number of problem sets used for training
+the network. The more the number and the wider the variety of data sets used for training, the lesser will be
+the error level in the solutions generated. In fact, this technique became very popular among the engineering
+research community, compared to other techniques such as genetic algorithms, due to simplicity in its
+application and reliability in the results it produced.
+All these developments that took place in the field of AI and related topics can be classified into eight
+specialised branches:
+1. Problem Solving and Planning: This deals with systematic refinement of goal hierarchy, plan
+revision mechanisms and a focused search of important goals [13].
+2. Expert Systems: This deals with knowledge processing and complex decision-making problems
+[14–16].
+3. Natural Language Processing: Areas such as automatic text generation, text processing, machine
+translation, speech synthesis and analysis, grammar and style analysis of text etc. come under this
+category [17].
+4. Robotics: This deals with the controlling of robots to manipulate or grasp objects and using
+information from sensors to guide actions etc. [18].
+5. Computer Vision: This topic deals with intelligent visualisation, scene analysis, image understanding
+and processing and motion derivation [6].
+6. Learning: This topic deals with research and development in different forms of machine learning
+[19].
+7. Genetic Algorithms: These are adaptive algorithms which have inherent learning capability. They
+are used in search, machine learning and optimisation [9–10].
+8. Neural Networks: This topic deals with simulation of learning in the human brain by combining
+pattern recognition tasks, deductive reasoning and numerical computations [11].
+Out of these eight topics, expert systems provided the much needed capability to automate decision making in
+engineering problem solving.

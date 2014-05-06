@@ -1,0 +1,6 @@
+This paper sets out, ambitiously, to present a brief reappraisal of software agents research. Evidently, software
+agent technology has promised much. However some five years after the word ‘agent’ came into vogue in the
+popular computing press, it is perhaps time the efforts in this fledgling area are thoroughly evaluated with a
+view to refocusing future efforts. We do not pretend to have done this in this paper – but we hope we have sown
+the first seeds towards a thorough first 5-year report of the software agents area. The paper contains some
+strong views not necessarily widely accepted by the agent community1.

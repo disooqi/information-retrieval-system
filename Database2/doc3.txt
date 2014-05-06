@@ -1,0 +1,5 @@
+Introduction
+
+The purpose of this page is to direct developers toward the Microsoft Agent downloads that are specifically of interest to them, such as the SDK documentation, code samples, the Agent Character Editor (to create their own custom Microsoft Agent character) and the Linguistic Information Sound Editing Tool (to improve the mouth synchronization of characters when used with spoken audio files).
+
+The Microsoft Agent core components, language libraries, and speech engines are available from the end-user download page.

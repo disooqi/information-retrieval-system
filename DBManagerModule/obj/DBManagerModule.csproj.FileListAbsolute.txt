@@ -1,0 +1,10 @@
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\DBManagerModule\bin\Debug\DBManagerModule.dll
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\DBManagerModule\bin\Debug\DBManagerModule.pdb
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\DBManagerModule\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\DBManagerModule\obj\Debug\DBManagerModule.dll
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\DBManagerModule\obj\Debug\DBManagerModule.pdb
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\DBManagerModule\bin\Debug\DBManagerModule.dll
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\DBManagerModule\bin\Debug\DBManagerModule.pdb
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\DBManagerModule\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\DBManagerModule\obj\Debug\DBManagerModule.dll
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\DBManagerModule\obj\Debug\DBManagerModule.pdb

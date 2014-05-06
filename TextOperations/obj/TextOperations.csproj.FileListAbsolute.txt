@@ -1,0 +1,14 @@
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\TextOperations\bin\Debug\TextOperations.dll
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\TextOperations\bin\Debug\TextOperations.pdb
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\TextOperations\bin\Debug\DBManagerModule.dll
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\TextOperations\bin\Debug\DBManagerModule.pdb
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\TextOperations\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\TextOperations\obj\Debug\TextOperations.dll
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\TextOperations\obj\Debug\TextOperations.pdb
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\TextOperations\bin\Debug\TextOperations.dll
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\TextOperations\bin\Debug\TextOperations.pdb
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\TextOperations\bin\Debug\DBManagerModule.dll
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\TextOperations\bin\Debug\DBManagerModule.pdb
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\TextOperations\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\TextOperations\obj\Debug\TextOperations.dll
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\TextOperations\obj\Debug\TextOperations.pdb

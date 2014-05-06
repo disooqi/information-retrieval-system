@@ -1,0 +1,10 @@
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\Ranking\bin\Debug\Ranking.dll
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\Ranking\bin\Debug\Ranking.pdb
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\Ranking\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\Ranking\obj\Debug\Ranking.dll
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\Ranking\obj\Debug\Ranking.pdb
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\Ranking\bin\Debug\Ranking.dll
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\Ranking\bin\Debug\Ranking.pdb
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\Ranking\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\Ranking\obj\Debug\Ranking.dll
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\Ranking\obj\Debug\Ranking.pdb

@@ -1,0 +1,11 @@
+A search on Google for the keywords “intelligent agents’ will return more than 330,000 hits; “multi-agent” returns almost
+double that amount as well as over 5,000 citations on www.citeseer.com. What is agent technology and what has led to its
+enormous popularity in both the academic and commercial worlds? Agent-based system technology offers a new paradigm
+for designing and implementing software systems. The objective of this tutorial is to provide an overview of agents,
+intelligent agents and multi-agent systems, covering such areas as:
+1. what an agent is, its origins and what it does,
+2. how intelligence is defined for and differentiates an intelligent agent from an agent,
+3. how multi-agent systems coordinate agents with competing goals to achieve a meaningful result, and
+4. how an agent differs from an object of a class or an expert system.
+Examples are presented of academic and commercial applications that employ agent technology. The potential pitfalls of
+agent development and agent usage are discussed.

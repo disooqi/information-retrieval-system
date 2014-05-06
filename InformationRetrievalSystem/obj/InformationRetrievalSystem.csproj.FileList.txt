@@ -1,0 +1,14 @@
+bin\Debug\InformationRetrievalSystem.exe
+bin\Debug\InformationRetrievalSystem.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\InformationRetrievalSystem.Properties.Resources.resources
+obj\Debug\InformationRetrievalSystem.SysInterface.resources
+obj\Debug\InformationRetrievalSystem.csproj.GenerateResource.Cache
+obj\Debug\InformationRetrievalSystem.exe
+obj\Debug\InformationRetrievalSystem.pdb
+bin\Debug\Indexing.dll
+bin\Debug\Indexing.pdb
+bin\Debug\DBManagerModule.dll
+bin\Debug\DBManagerModule.pdb
+bin\Debug\TextOperations.dll
+bin\Debug\TextOperations.pdb

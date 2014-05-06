@@ -1,0 +1,3 @@
+Microsoft® Agent is a software technology that enables an enriched form of user interaction that can make using and learning to use a computer, easier and more natural.
+
+With the Microsoft Agent set of software services, developers can easily enhance the user interface of their applications and Web pages with interactive personalities in the form of animated characters. These characters can move freely within the computer display, speak aloud (and by displaying text onscreen), and even listen for spoken voice commands. When used effectively with a conversational interface approach, Microsoft Agent can be a powerful extension and enhancement of the existing interactive modalities of the Microsoft Windows® interface.

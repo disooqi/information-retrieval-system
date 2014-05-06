@@ -1,0 +1,8 @@
+Three of the most commonly used file structures for information retrieval can be classified as lexicographical indices (indices that are sorted), clustered file structures, and indices based on hashing. One type of lexicographical index, the inverted file, is presented in this chapter, with a second type of lexicographical index, the Patricia (PAT) tree, discussed in Chapter 5. Clustered file structures are covered in Chapter 16, and indices based on hashing are covered in Chapter 13 and Chapter 4 (signature files).
+
+The concept of the inverted file type of index is as follows. Assume a set of documents. 
+Each document is assigned a list of keywords or attributes, with optional relevance weights associated with each keyword (attribute). 
+An inverted file is then the sorted list (or index) of keywords (attributes), with each keyword having links to the documents containing that 
+keyword (see Figure 3.1) . This is the kind of index found in most commercial library systems. 
+The use of an inverted file improves search efficiency by several orders of magnitude, a necessity for very large text files. 
+The penalty paid for this efficiency is the need to store a data structure that ranges from 10 percent to 100 percent or more of the size of the text itself, and a need to update that index as the data set changes.

@@ -1,0 +1,14 @@
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\Indexing\bin\Debug\Indexing.dll
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\Indexing\bin\Debug\Indexing.pdb
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\Indexing\bin\Debug\DBManagerModule.dll
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\Indexing\bin\Debug\DBManagerModule.pdb
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\Indexing\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\Indexing\obj\Debug\Indexing.dll
+D:\Work\Goals\Master\Technical Reports\Report 96 - System Development\InformationRetrievalSystem\Indexing\obj\Debug\Indexing.pdb
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\Indexing\bin\Debug\Indexing.dll
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\Indexing\bin\Debug\Indexing.pdb
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\Indexing\bin\Debug\DBManagerModule.dll
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\Indexing\bin\Debug\DBManagerModule.pdb
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\Indexing\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\Indexing\obj\Debug\Indexing.dll
+D:\Work\Goals\Master\Software\InformationRetrievalSystem\Indexing\obj\Debug\Indexing.pdb

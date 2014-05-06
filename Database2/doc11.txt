@@ -1,0 +1,29 @@
+Data mining
+Fortunately, the kind of learning techniques explained in this book do not
+present these conceptual problems—they are called machine learning without
+really presupposing any particular philosophic stance about what learning actually
+is. Data mining is a practical topic and involves learning in a practical, not
+a theoretical, sense. We are interested in techniques for finding and describing
+structural patterns in data as a tool for helping to explain that data and make
+predictions from it. The data will take the form of a set of examples—examples
+of customers who have switched loyalties, for instance, or situations in which
+certain kinds of contact lenses can be prescribed. The output takes the form of
+predictions about new examples—a prediction of whether a particular customer
+will switch or a prediction of what kind of lens will be prescribed under given
+circumstances. But because this book is about finding and describing patterns
+in data, the output may also include an actual description of a structure that
+can be used to classify unknown examples to explain the decision. As well as
+performance, it is helpful to supply an explicit representation of the knowledge
+that is acquired. In essence, this reflects both definitions of learning considered
+previously: the acquisition of knowledge and the ability to use it.
+Many learning techniques look for structural descriptions of what is learned,
+descriptions that can become fairly complex and are typically expressed as sets
+of rules such as the ones described previously or the decision trees described
+later in this chapter. Because they can be understood by people, these descriptions
+serve to explain what has been learned and explain the basis for new predictions.
+Experience shows that in many applications of machine learning to
+data mining, the explicit knowledge structures that are acquired, the structural
+descriptions, are at least as important, and often very much more important,
+than the ability to perform well on new examples. People frequently use data
+mining to gain knowledge, not just predictions. Gaining knowledge from data
+certainly sounds like a good idea if you can do it. To find out how, read on!

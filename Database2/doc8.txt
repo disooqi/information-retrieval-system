@@ -1,0 +1,18 @@
+Defining an Agent
+There is no universally accepted definition of the term agent. Russel and Norvig (1995) define an agent as an entity that can
+be viewed as perceiving its environment through sensors and acting upon its environment through effectors. (Coen, 1995)
+views software agents as programs that engage in dialogs and negotiate and coordinate the transfer of information.
+Wooldridge and Jennings (1995) state that an agent is a hardware and/or software-based computer system displaying the
+properties of autonomy, social adeptness, reactivity, and proactivity. Others (Brustolini, 1991; Franklin and Graeser, 1996;
+Maes, 1995; Hayes-Roth et al, 1995; Gilbert et al, 1995) offer variations on this theme. There is a consensus that autonomy,
+the ability to act without the intervention of humans or other systems, is a key feature of an agent. Beyond that, different
+attributes take on different importance based on the domain of the agent.
+Figure 1 depicts a high-level view of an agent within its
+environment. An agent receives input from its environment and,
+through a repertoire of actions available to it, reacts to it in order
+to modify it. Generally, in domains of reasonable complexity, an
+agent will not have total control over its environment. Thus, the
+same action performed twice in seemingly identical situations
+might appear to have completely different outcomes. Failure is
+also a possibility i.e., the action taken by the agent may not
+produce the desired effect at all.

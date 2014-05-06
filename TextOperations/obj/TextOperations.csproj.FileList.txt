@@ -1,0 +1,7 @@
+bin\Debug\TextOperations.dll
+bin\Debug\TextOperations.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TextOperations.dll
+obj\Debug\TextOperations.pdb
+bin\Debug\DBManagerModule.dll
+bin\Debug\DBManagerModule.pdb
